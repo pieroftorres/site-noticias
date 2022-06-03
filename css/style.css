@@ -61,6 +61,7 @@ h1 {
 .voltar {
     color: blue;
     margin: 20px;
+    text-decoration: underline;
 }
 
 .principaisNoticias {
