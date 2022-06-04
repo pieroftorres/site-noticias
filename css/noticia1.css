@@ -50,10 +50,19 @@
     color: #171515;
 }
 
-.tituloPagina {
+.espacoTituloPagina {
     width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.tituloPagina {
+    width: 320px;
     text-align: center;
     padding: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .texto {
