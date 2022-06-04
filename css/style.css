@@ -25,7 +25,7 @@
 }
 
 .espacoBotoesMenu {
-    max-width: 406px;
+    max-width: 306px;
     height: 7vh;
     display: flex;
     justify-content: space-around;
@@ -36,7 +36,7 @@
     font-family: Arial, Helvetica, sans-serif;
     color: greenyellow;
     height: 7vh;
-    width: 130px;
+    width: 101px;
     display: flex;
     align-items: center;
     justify-content: center;
