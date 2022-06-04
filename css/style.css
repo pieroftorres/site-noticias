@@ -65,7 +65,7 @@ h1 {
 }
 
 .principaisNoticias {
-    height: 450px;
+    height: 700px;
     display: flex;
     justify-content: space-around;
     align-items: center;
