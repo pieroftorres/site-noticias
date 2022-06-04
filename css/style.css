@@ -86,10 +86,10 @@
 }
 
 .tituloNoticia {
-    width: 320px;
     text-align: center;
     font-size: 20px;
     text-decoration: none;
+    padding: 10px;
 }
 
 .tituloNoticia:hover {
